@@ -17,7 +17,7 @@
    pip install pygame
 
 ## Clone the respository to your local machine
-git clone 
+git clone https://github.com/Wish-nu/CapMan-Game.git
 
 ## Run the capman.py file using Python
 python capman.py
