@@ -36,6 +36,30 @@ Level 5: Fastest speed, the hardest level
 Add sound effects for CapMan eating and ghost movements
 Save high scores and player names
 
+## License
+No license
+
+##Add your files to the Git repository
+git add .
+
+##Commit the changes:
+git commit -m "Initial commit for CapMan game"
+
+##Connect your local folder to the GitHub repository
+git remote add origin https://github.com/Wish-nu/CapMan-Game.git
+
+##Push your code to GitHub
+git push -u origin master
+
+
+
+
+
+
+
+
+
+
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and create a pull request with your improvements.
 
