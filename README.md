@@ -39,17 +39,7 @@ Save high scores and player names
 ## License
 No license
 
-##Add your files to the Git repository
-git add .
 
-##Commit the changes:
-git commit -m "Initial commit for CapMan game"
-
-##Connect your local folder to the GitHub repository
-git remote add origin https://github.com/Wish-nu/CapMan-Game.git
-
-##Push your code to GitHub
-git push -u origin master
 
 
 
