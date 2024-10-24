@@ -9,12 +9,35 @@
 - Increasing difficulty, starting very easy and reaching a challenging final level
 - "CapMan" title screen on game start
 
-
+## Screenshots
+![Game Screenshot](https://link-to-your-screenshot.com)
 
 ## How to Run the Game
 1. Ensure you have Python installed on your machine.
 2. Install the Pygame library:
    ```bash
    pip install pygame
-# CapMan-Game
-A multi-level Pac-Man inspired game built in Python using Pygame, with increasing difficulty across levels.
+
+##Clone the respository to your local machine
+git clone https://github.com/yourusername/CapMan-Game.git
+
+##Run the capman.py file using Python
+python capman.py
+
+Game Controls
+Arrow Keys: Move CapMan (up, down, left, right)
+
+How the Levels Work:
+Level 1: Very easy, slow-moving ghosts
+Level 2: Slightly faster ghosts
+Level 3: Moderate ghost speed
+Level 4: Faster ghosts
+Level 5: Fastest speed, the hardest level
+
+Future Enhancements
+Add sound effects for CapMan eating and ghost movements
+Save high scores and player names
+
+Contributing
+Contributions are welcome! Feel free to fork this repository and create a pull request with your improvements.
+
