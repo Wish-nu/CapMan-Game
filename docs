@@ -1,1 +1,43 @@
+# CapMan Game Documentation
 
+## Overview
+CapMan is a Python game inspired by Pac-Man. It includes multiple levels of increasing difficulty and is built using the Pygame library.
+
+## Project Structure
+- `capman.py`: The main game code containing the game logic.
+- `README.md`: Provides an overview and instructions for the game.
+- `requirements.txt`: A list of dependencies needed to run the game.
+
+## How to Run the Game
+1. **Install Python and Pygame**:
+   - Make sure you have Python installed on your system. Then, install the required libraries using:
+   ```bash
+   pip install -r requirements.txt
+
+##Run the Game:
+Execute the following command in your terminal to start the game:  python capman.py
+
+##Code Explanation
+Importing Pygame:
+
+The pygame library is imported to enable game development features.
+Initialization:
+pygame.init() initializes all the Pygame modules. This is necessary before using any Pygame functions.
+
+Screen Constants:
+SCREEN_WIDTH and SCREEN_HEIGHT are constants defining the dimensions of the game window.
+
+Main Function:
+The main() function serves as the entry point of the game. It sets up the display and contains the main game loop.
+
+Game Loop:
+The game runs inside a while running: loop, which continues until the user quits.
+The event handling checks for user input (like closing the window).
+
+Quitting Pygame:
+pygame.quit() is called to safely close the Pygame window and clean up resources when the game ends.
+
+##Future Enhancements
+Gameplay Features: Consider adding player controls, scoring systems, and power-ups to enhance the game experience.
+Level Design: Implement unique layouts and challenges for each level to keep the gameplay engaging.
+Graphics and Sounds: Explore adding graphics, animations, and sound effects to improve the overall user experience.
