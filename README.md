@@ -9,8 +9,6 @@
 - Increasing difficulty, starting very easy and reaching a challenging final level
 - "CapMan" title screen on game start
 
-## Screenshots
-![Game Screenshot](https://link-to-your-screenshot.com)
 
 ## How to Run the Game
 1. Ensure you have Python installed on your machine.
