@@ -17,7 +17,7 @@
 - **Scoring System**: Designed a scoring mechanism to keep track of player performance across multiple levels.
 - **Level Design**: Created different layouts and challenges for each level, enhancing the gameplay experience.
 - **Game States**: Managed game states (like start, running, and game over) to control the flow of the game.
-- 
+  
 ## How to Run the Game
 1. Ensure you have Python installed on your machine.
 2. Install the Pygame library:
