@@ -16,26 +16,26 @@
    ```bash
    pip install pygame
 
-Clone the respository to your local machine
-git clone https://github.com/yourusername/CapMan-Game.git
+## Clone the respository to your local machine
+git clone 
 
-Run the capman.py file using Python
+## Run the capman.py file using Python
 python capman.py
 
-Game Controls
+## Game Controls
 Arrow Keys: Move CapMan (up, down, left, right)
 
-How the Levels Work:
+## How the Levels Work:
 Level 1: Very easy, slow-moving ghosts
 Level 2: Slightly faster ghosts
 Level 3: Moderate ghost speed
 Level 4: Faster ghosts
 Level 5: Fastest speed, the hardest level
 
-Future Enhancements
+## Future Enhancements
 Add sound effects for CapMan eating and ghost movements
 Save high scores and player names
 
-Contributing
+## Contributing
 Contributions are welcome! Feel free to fork this repository and create a pull request with your improvements.
 
