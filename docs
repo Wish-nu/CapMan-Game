@@ -1,1 +1,18 @@
+# CapMan Game Documentation
+
+## Overview
+CapMan is a Python game inspired by Pac-Man. It includes multiple levels of increasing difficulty.
+
+## Project Structure
+- `capman.py`: The main game code.
+- `README.md`: Project overview and instructions.
+- `requirements.txt`: List of dependencies.
+
+## How to Run the Game
+1. Install Python and Pygame:
+   ```bash
+   pip install -r requirements.txt
+
+##Run the game:
+python capman.py
 
